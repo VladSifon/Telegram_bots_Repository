@@ -1,1 +1,3 @@
-print("This is a file from GitHub")
+print('Сизам откройся')
+
+print('Вечер в хату')
