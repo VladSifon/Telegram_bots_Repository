@@ -1,2 +1,2 @@
 # First_repository
-It's my repository for my telegram_bots projects
+It's my repository for my telegram bots projects on python pl
