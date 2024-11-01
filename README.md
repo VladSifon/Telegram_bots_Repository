@@ -1,2 +1,2 @@
 # First_repository
-#SomeThig print
+It's my repository for my telegram_bots projects
